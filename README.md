@@ -2,4 +2,4 @@
 
 This is 1 photo of the app ..
 
-![image_2022-04-07_12-11-39](https://user-images.githubusercontent.com/84612792/187075049-a95001d0-08e7-481e-9783-d852c7290e1e.png)
+![Simulator Screen Shot - iPhone 12 - 2022-08-28 at 17 56 29_351x760](https://user-images.githubusercontent.com/84612792/187075399-76949814-0dd1-46ba-bf20-097e8b5abe46.png)
